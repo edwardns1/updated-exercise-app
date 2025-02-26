@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #FFD900;
+  font-style: italic;
+}
+
+.exercise-button {
+  margin: 10px;
+  padding: 10px 10px;
+  font-size: 18px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+.exercise-container {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: lighter;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+h3 {
+  font-size: 100px;
+  font-weight: bold;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.action-button {
+  margin: 10px;
+  padding: 10px 10px;
+  font-size: 18px;
+  background-color: #FFD900;
+  color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
