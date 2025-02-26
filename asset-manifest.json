@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/edwardns1/updated-exercise-app/static/css/main.b6033093.css",
-    "main.js": "/edwardns1/updated-exercise-app/static/js/main.be3393e6.js",
-    "static/js/453.21aaa8ce.chunk.js": "/edwardns1/updated-exercise-app/static/js/453.21aaa8ce.chunk.js",
-    "index.html": "/edwardns1/updated-exercise-app/index.html",
-    "main.b6033093.css.map": "/edwardns1/updated-exercise-app/static/css/main.b6033093.css.map",
-    "main.be3393e6.js.map": "/edwardns1/updated-exercise-app/static/js/main.be3393e6.js.map",
-    "453.21aaa8ce.chunk.js.map": "/edwardns1/updated-exercise-app/static/js/453.21aaa8ce.chunk.js.map"
+    "main.css": "/updated-exercise-app/static/css/main.b6033093.css",
+    "main.js": "/updated-exercise-app/static/js/main.8156b7ff.js",
+    "static/js/453.21aaa8ce.chunk.js": "/updated-exercise-app/static/js/453.21aaa8ce.chunk.js",
+    "index.html": "/updated-exercise-app/index.html",
+    "main.b6033093.css.map": "/updated-exercise-app/static/css/main.b6033093.css.map",
+    "main.8156b7ff.js.map": "/updated-exercise-app/static/js/main.8156b7ff.js.map",
+    "453.21aaa8ce.chunk.js.map": "/updated-exercise-app/static/js/453.21aaa8ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6033093.css",
-    "static/js/main.be3393e6.js"
+    "static/js/main.8156b7ff.js"
   ]
 }
